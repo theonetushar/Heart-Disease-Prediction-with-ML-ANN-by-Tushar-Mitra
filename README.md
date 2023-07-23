@@ -1,6 +1,5 @@
 # Heart Disease Prediction with Machine Learning and Artificial Neural Networks
-
-![Heart Disease]
+![Heart Disease](heart_disease_image.jpg)
 
 This project aims to develop a Heart Disease Prediction system using both Machine Learning (ML) and Artificial Neural Networks (ANN). The system utilizes data analysis and exploratory data analysis (EDA) to gain insights into the dataset before building predictive models.
 
